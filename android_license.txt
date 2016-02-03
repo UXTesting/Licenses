@@ -1,0 +1,5 @@
+/* Copyright (C) UXTesting, Inc - All Rights Reserved
+* Unauthorized copying of this file, via any medium is strictly prohibited
+* Proprietary and confidential
+* Written by UXTesting Team <morshues@uxtesting>, February 2016
+*/
